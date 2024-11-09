@@ -23,4 +23,11 @@
 * Bu proje foreach döngüsünü kullanarak diziler ve listeler üzerinde işlem yapmayı göstermektedir. foreach döngüsü ile diziler ve koleksiyonlar üzerinde nasıl döngü kurulacağı, elemanların nasıl erişileceği ve belirli koşullara göre işlemlerin nasıl gerçekleştirileceği gösterilmektedir.
 
 ### 🔎8.Proje: Methods
-* Bu proje metotları kullanarak farklı işlevleri gerçekleştirmeyi göstermektedir. Farklı metot türlerinin nasıl tanımlanacağı, parametreli ve geriye değer döndüren metotların nasıl kullanılacağı gösterilmektedir. 
+* Bu proje metotları kullanarak farklı işlevleri gerçekleştirmeyi göstermektedir. Farklı metot türlerinin nasıl tanımlanacağı, parametreli ve geriye değer döndüren metotların nasıl kullanılacağı gösterilmektedir.
+
+### 🔎9.Proje: Database
+* Bu proje bir veri tabanı bağlantısı kurarak belirli bir tablodan verileri çekmeyi ve ekrana yazdırmayı göstermektedir. Tablodaki veriler foreach döngüsü kullanılarak ekrana yazdırılmaktadır. Kod ayrıca ADO.NET kullanılarak SQL bağlantısı kurulmasını ve veri adaptörü ile verilerin bir DataTable nesnesine aktarılmasını içermektedir.
+
+### 🔎10.Proje: Database CRUD
+* Bu proje bir veritabanı üzerinde CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir menü tabanlı uygulamayı göstermektedir. Uygulama; kategori ve ürün ekleme, ürün listeleme, silme ve güncelleme işlemlerini gerçekleştirmekte olup, ADO.NET kullanarak SQL bağlantısı kurmaktadır. Kullanıcının girişine göre veritabanındaki belirli tablolara ekleme, okuma, güncelleme ve silme işlemleri SqlCommand, SqlDataAdapter ve DataTable nesneleri kullanılarak yapılmaktadır.
+
