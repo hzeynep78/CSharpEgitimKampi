@@ -1,5 +1,5 @@
 # 📚C# Eğitim Kampı
-* Bu repo, Murat Yücedağ'ın 'C# Eğitim Kampı' eğitiminin ilk 8 projesini içermektedir. Projeler, temel programlama kavramlarından başlayarak zorluk seviyesi kademe kademe artan bir yapıda, orta ve ileri seviyeye kadar ilerleyen bir öğrenme süreci sunmaktadır. 
+* Bu repo, Murat Yücedağ'ın 'C# Eğitim Kampı' eğitiminin ilk 10 projesini içermektedir. Projeler, temel programlama kavramlarından başlayarak zorluk seviyesi kademe kademe artan bir yapıda, orta ve ileri seviyeye kadar ilerleyen bir öğrenme süreci sunmaktadır. 
 
 ### 🔎1.Proje: Main Subjects
 * Bu proje C# dilinde temel konsol çıktılarını göstermektedir. Console.WriteLine ve Console.Write kullanılarak konsola metin yazdırma işlemleri yapılmıştır. String değişkeni kullanılmıştır.
